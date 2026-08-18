@@ -265,3 +265,6 @@ This project helped demonstrate how data cleaning and visualization can turn raw
 
 
 This project was completed as part of a **Data Cleaning & Visualization Project**.
+
+<img width="1339" height="752" alt="Screenshot 2026-08-18 112430" src="https://github.com/user-attachments/assets/8e2bb1e9-672c-4f47-aa24-f4cbe89103a3" />
+
